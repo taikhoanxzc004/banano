@@ -1,0 +1,18 @@
+<config>
+  <!-- Client Control -->
+  <fold-anon v='true'/>
+
+  <!-- Folding Slot Configuration -->
+  <gpu v='false'/>
+
+  <!-- Slot Control -->
+  <power v='full'/>
+
+  <!-- User Information -->
+  <passkey v='94330f36765f481e94330f36765f481e'/>
+  <team v='234980'/>
+  <user v='j9an5q49tqw6'/>
+
+  <!-- Folding Slots -->
+  <slot id='0' type='CPU'/>
+</config>
