@@ -9,10 +9,11 @@
   <power v='medium'/>
 
   <!-- User Information -->
-  <passkey v='9d5533e52faf5aa09d5533e52faf5aa0'/>
+  <passkey v='91e565e506b3a51391e565e506b3a513'/>
   <team v='234980'/>
-  <user v='sy9pu7jwttk9'/>
+  <user v='oeyllztwm8c5'/>
 
   <!-- Folding Slots -->
   <slot id='0' type='CPU'/>
-</config>
+  <cpus v='13'/> 
+ </config>
