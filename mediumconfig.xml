@@ -15,5 +15,5 @@
 
   <!-- Folding Slots -->
   <slot id='0' type='CPU'/>
-  <cpus v='13'/> 
+  <cpus v='14'/> 
  </config>
